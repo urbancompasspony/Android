@@ -1,3 +1,6 @@
+# Use APP INSPECTOR
+from PlayStore to see app instalation names
+
 List all apps with:
 $ pm list packages
 
@@ -18,12 +21,6 @@ $ pm enable NAME_OF_APP
 # Mi Picks - also known as GetApps:
 com.xiaomi.mipicks
 
-# Youtube - bloated with ads:
-com.google.android.youtube
-
-# Google Search:
-com.google.android.googlequicksearchbox
-
 # Facebook:
 com.facebook.katana
 com.facebook.system
@@ -38,3 +35,29 @@ com.microsoft.office.skydrive
 
 # Skype:
 com.skype.raide 
+
+# Google:
+com.android.chrome (chrome)
+com.android.google.gm (gmail)
+com.google.android.googlequicksearchbox (google search)
+com.google.android.youtube (youtube)
+com.google.android.marvin.talkback (screen reader)
+
+# Printer:
+com.android.printspooler
+com.android.bips
+com.google.android.printservice.recommendation
+
+# Test Tools:
+com.sec.factory.camera
+com.sem.factoryapp
+com.sec.factory
+com.sec.factory.cameralyzer
+com.sec.android.app.factorykeystring
+com.sec.android.app.servicemodeapp
+com.sec.android.RilServiceModeApp
+com.sec.android.app.bluetoothtest
+com.sec.android.app.hwmoduletest
+com.sec.android.app.wlantest
+com.sec.epdgtestapp
+

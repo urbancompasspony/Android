@@ -1,5 +1,40 @@
+List all apps with:
+$ pm list packages
+
 To uninstall apps, run:
 $ pm uninstall -k --user 0 NAME_OF_APP
 
-Mi Picks - also known as GetApps:
-$ pm uninstall -k --user 0 com.xiaomi.mipicks
+To just disable apps, run:
+$ pm disable-user --user 0 NAME_OF_APP
+
+To re-install apps, run:
+$ pm package install-existing NAME_OF_APP
+
+Tu re-enable apps, run:
+$ pm enable NAME_OF_APP
+
+# SOME APPS THAT CAN BE REMOVED/DISABLED: #
+
+# Mi Picks - also known as GetApps:
+com.xiaomi.mipicks
+
+# Youtube - bloated with ads:
+com.google.android.youtube
+
+# Google Search:
+com.google.android.googlequicksearchbox
+
+# Facebook:
+com.facebook.katana
+com.facebook.system
+com.facebook.appmanager
+com.facebook.services
+
+# Microsoft Office:
+com.microsoft.office.excel
+com.microsoft.office.powerpoint
+com.microsoft.office.onenote
+com.microsoft.office.skydrive
+
+# Skype:
+com.skype.raide 

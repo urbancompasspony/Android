@@ -1,0 +1,5 @@
+To uninstall apps, run:
+$ pm uninstall -k --user 0 NAME_OF_APP
+
+Mi Picks - also known as GetApps:
+$ pm uninstall -k --user 0 com.xiaomi.mipicks

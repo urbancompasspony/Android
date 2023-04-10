@@ -1,5 +1,5 @@
 ## ADB
-Some commands for Android Tools
+Some commands for Android or ADB
 
 ## Install adb:
 $ sudo apt install adb

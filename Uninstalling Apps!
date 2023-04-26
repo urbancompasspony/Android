@@ -19,7 +19,8 @@ $ pm enable NAME_OF_APP
 # SOME APPS THAT CAN BE REMOVED/DISABLED: #
 
 # Mi Picks (also known as GetApps):
-com.xiaomi.mipicks
+com.xiaomi.mipicks (Mi Picks Store)
+com.miui.compass (bussola)
 
 # Facebook Only (not Whatsapp or Instagram):
 com.facebook.katana
@@ -43,8 +44,13 @@ com.google.android.youtube (youtube)
 com.google.android.marvin.talkback (screen reader)
 com.android.hotwordenrollment.okgoogle (google assistant)
 com.google.android.apps.googleassistant (google assistant 2)
+com.android.hotwordenrollment.xgoogle (google assistant 3)
 com.google.android.apps.subscriptions.red (google one)
 com.xiaomi.midrop (share me)
+
+com.google.android.calendar (google agenda)
+com.google.android.projection.gearhead (android auto)
+com.google.android.apps.maps (google maps)
 
 # Printer:
 com.android.printspooler

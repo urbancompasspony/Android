@@ -20,7 +20,10 @@ $ pm enable NAME_OF_APP
 
 # Mi Picks (also known as GetApps):
 com.xiaomi.mipicks (Mi Picks Store)
-com.miui.compass (bussola)
+
+# Random stuff
+com.miui.compass (Compass... duh)
+com.miui.gallery (Build in Images Gallery)
 
 # Facebook Only (not Whatsapp or Instagram):
 com.facebook.katana
